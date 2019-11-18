@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "name": "cloud",
+      "text": "A black cloud covers the city and pollutes everything",
+      "money": 0,
+      "pollution": -3,
+      "cardR": 0.0,
+      "cardG": 0.7,
+      "cardB": 0,
+      "tex": "cloudTex"
+    },
+    {
+      "name": "Money Rain",
+      "text": "Money is falling from the sky, it pollutes but it helps...",
+      "money": 100,
+      "pollution": 5,
+      "cardR": 0.0,
+      "cardG": 0.2,
+      "cardB": 0.8,
+      "tex": "moneyTex"
+    }
+  ]
+}
